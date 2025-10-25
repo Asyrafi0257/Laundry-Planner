@@ -28,7 +28,7 @@ class _SplashPageState extends State<SplashPage> {
     super.initState();
 
     //nak set masa berapa second sebelum ke page lain
-    Future.delayed(Duration(seconds: 5), () {
+    Future.delayed(Duration(seconds: 2), () {
       //nak check sama ada widget masih active ke tidak
       if (!mounted) return;
 
