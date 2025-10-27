@@ -6,12 +6,19 @@ It is  perfect for students or anyone who wants to save time and avoid overloadi
 
 ## Input-process-output (IPO)
 i)	user need to input numbers of shirt, capacity and wash type.
+
 ii)	The input will check the valid input and show the message if input is invalid or user not input the value.
+
 iii)	The app will calculate total load to know how many need to wash the shirt.
+
 iv)	For wash, the app will calculate total wash and total time that needed to finish wash.
+
 v)	For Dryer, the app will calculate the time and energy based on selected wash type.
+
 vi)	Then the output will update with setState().
+
 vii)	Output will display totalload, totalwater and totalTime for wash while for dryer will output the  totalload, totalEnergy and totalTime.
+
 viii)	The snacker message used to display message if input is empty or invalid.
 
 ## Widget list used
